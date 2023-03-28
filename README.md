@@ -5,3 +5,13 @@
 ```
   Hello World
 ```
+
+
+### از خط زیر میتوان خروجی متن را پیدا کرد
+
+```php 
+
+  if (!empty($result)){
+    echo "Hello World"
+  }
+```
